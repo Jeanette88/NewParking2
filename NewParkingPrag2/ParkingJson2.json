@@ -1,0 +1,37 @@
+{
+  "NrOfSpots": 100,
+  "SpotsSize": 4,
+  "CarPrice": 20,
+  "McPrice": 10,
+  "VehicleTypes": [ "Car", "Mc" ]
+
+}
+
+/* 
+  
+  NrOfSpots : Här kan man ändra storleken på parkerings platser. Man anger antal platser, sedan går man in på menyn och trycker på Nr 8,  "Change Settings".
+
+  SpotsSize : Här kan man ändra vilken storlek man vill ha på varje parerings ruta. Man anger antal platser, sedan går man in på menyn och trycker på Nr 8, "Change Settings".
+
+  CarPrice : Här kan du ändra priset på bil parkeringen. Man anger vilket pris, sedan går man in på menyn och trycker på Nr 8, "Change Settings".
+
+  Mc Price : Här kan du ändra priset på mc parkeringen. Man anger vilket pris, sedan går man in på menyn och trycker på Nr 8, "Change Settings".
+
+  VehicleTypes : Här kan du välja om du vill att parkerings huset bara ska kunna ta emot bilar eller bara mc, eller båda bilar och mc. 
+                 Man tar alltså bort på VehicleTypes det fordonet du Inte vill ska kunna parkera i huset. 
+
+
+  Finns mer information på Words dokumentet jag skickade in med detta arbetet.
+
+
+  */
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,698 @@
+[
+  {
+    "Nr": 1,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "QWE123",
+        "Size": 4,
+        "Time": "2021-11-19T14:02:44.0443754+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 2,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Mc",
+        "RegNr": "GGG666",
+        "Size": 2,
+        "Time": "2021-11-18T12:30:46.6702167+01:00"
+      },
+      {
+        "Type": "Mc",
+        "RegNr": "HHH222",
+        "Size": 2,
+        "Time": "2021-11-18T12:30:54.2295588+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 3,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Mc",
+        "RegNr": "BBB555",
+        "Size": 2,
+        "Time": "2021-11-18T12:31:33.657493+01:00"
+      },
+      {
+        "Type": "Mc",
+        "RegNr": "GGG777",
+        "Size": 2,
+        "Time": "2021-11-18T12:32:47.9242095+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 4,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "VVV444",
+        "Size": 4,
+        "Time": "2021-11-18T12:32:23.8610595+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 5,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "CCC555",
+        "Size": 4,
+        "Time": "2021-11-18T12:32:55.0202631+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 6,
+    "Size1": 4,
+    "AvailableSize": 2,
+    "Vehicles": [
+      {
+        "Type": "Mc",
+        "RegNr": "RRR",
+        "Size": 2,
+        "Time": "2021-11-18T15:46:49.5568836+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 7,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "CAR111",
+        "Size": 4,
+        "Time": "2021-11-19T13:05:51.9230303+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 8,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "CAR123",
+        "Size": 4,
+        "Time": "2021-11-19T13:27:17.1797989+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 9,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 10,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 11,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 12,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "CAR123",
+        "Size": 4,
+        "Time": "2021-11-19T13:27:17.1797989+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 13,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 14,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 15,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 16,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 17,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 18,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 19,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 20,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 21,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 22,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 23,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 24,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 25,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 26,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 27,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 28,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 29,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 30,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 31,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 32,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 33,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 34,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "PPP",
+        "Size": 4,
+        "Time": "2021-11-17T11:04:10.7331069+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 35,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 36,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 37,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 38,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 39,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 40,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 41,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 42,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 43,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 44,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 45,
+    "Size1": 4,
+    "AvailableSize": 0,
+    "Vehicles": [
+      {
+        "Type": "Car",
+        "RegNr": "ZZZ",
+        "Size": 4,
+        "Time": "2021-11-15T21:02:58.2915425+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 46,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 47,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 48,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 49,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 50,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 51,
+    "Size1": 4,
+    "AvailableSize": 2,
+    "Vehicles": [
+      {
+        "Type": "Mc",
+        "RegNr": "FFF",
+        "Size": 2,
+        "Time": "2021-11-16T13:23:57.3465831+01:00"
+      }
+    ]
+  },
+  {
+    "Nr": 52,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 53,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 54,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 55,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 56,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 57,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 58,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 59,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 60,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 61,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 62,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 63,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 64,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 65,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 66,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 67,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 68,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 69,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 70,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 71,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 72,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 73,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 74,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 75,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 76,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 77,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 78,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 79,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 80,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 81,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 82,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 83,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 84,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 85,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 86,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 87,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 88,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 89,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 90,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 91,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 92,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 93,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 94,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 95,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 96,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 97,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 98,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 99,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  },
+  {
+    "Nr": 100,
+    "Size1": 4,
+    "AvailableSize": 4,
+    "Vehicles": []
+  }
+]
